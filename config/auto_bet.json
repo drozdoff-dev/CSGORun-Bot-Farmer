@@ -1,0 +1,59 @@
+{
+    "Time_Bet": {
+
+    },
+    "Pattern_Bet": {
+        "patterns": {
+            "$r-rrr": {
+                "coef": {
+                    "min": 1.2,
+                    "max": 1.25
+                },
+                "cost": {
+                    "min": 4.00,
+                    "max": 5.00
+                }
+            },
+            "$$$rrrr": {
+                "coef": {
+                    "min": 1.2,
+                    "max": 1.2
+                },
+                "cost": {
+                    "min": 0.50,
+                    "max": 1.00
+                }
+            },
+            "$rr-r": {
+                "coef": {
+                    "min": 1.20,
+                    "max": 1.25
+                },
+                "cost": {
+                    "min": 4.00,
+                    "max": 5.00
+                }
+            },
+            "$r-rr": {
+                "coef": {
+                    "min": 1.20,
+                    "max": 1.25
+                },
+                "cost": {
+                    "min": 4.00,
+                    "max": 5.00
+                }
+            }
+        }
+    },
+    "Dilute_Bet": {
+        "coef": {
+            "min": 1.03,
+            "max": 1.10
+        },
+        "cost": {
+            "min": 0.10,
+            "max": 0.20
+        }
+    }
+}

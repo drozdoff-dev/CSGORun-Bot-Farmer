@@ -1,0 +1,13 @@
+{
+    "python.analysis.extraPaths": [
+        "./storage/temp/bot_bet",
+        "./bot-bet/functions",
+        "./bot-bet",
+        "./bot-telegram",
+        "./bot-telegram/functions",
+        "./storage/temp/global",
+        "./global/functions",
+        "./storage/temp/telegram_bot",
+        "./bot-auth"
+    ]
+}
